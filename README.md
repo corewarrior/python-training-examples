@@ -4,7 +4,7 @@ The python programs that are documented here are for my use when
 training python classes either at the college level or in our Linux
 Users Group.
 
-The programs will be presented as a reference examples for analysis and
+The programs are presented as reference examples for analysis and
 discussion. They can also be used as platforms to explore other ideas.
 
 Don't have a complete idea of the total number yet. The programs
